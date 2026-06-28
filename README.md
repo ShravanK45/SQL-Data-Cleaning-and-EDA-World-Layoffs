@@ -41,7 +41,7 @@ The goal of this project is to clean the dataset and uncover actionable insights
 
 # 📂 Dataset
 
-**Dataset:** World Layoffs Dataset
+**Dataset:** Layoffs Dataset
 
 The dataset contains information about layoffs across various companies worldwide.
 
