@@ -193,6 +193,9 @@ The following business questions were answered:
 
 ---
 
+# 📁 Repository Structure
+
+```text
 SQL-Data-Cleaning-and-EDA-World-Layoffs
 │
 ├── README.md
@@ -206,15 +209,15 @@ SQL-Data-Cleaning-and-EDA-World-Layoffs
 │   └── 02_Exploratory_Data_Analysis.sql
 │
 ├── Screenshots
-    ├── 01_dataset_preview.png
-    ├── 02_duplicate_detection.png
-    ├── 03_data_cleaning.png
-    ├── 04_top_companies.png
-    ├── 05_industry_analysis.png
-    ├── 06_country_analysis.png
-    ├── 07_rolling_total.png
-    └── 08_company_ranking.png
-
+│   ├── 01_dataset_preview.png
+│   ├── 02_duplicate_detection.png
+│   ├── 03_data_cleaning.png
+│   ├── 04_top_companies.png
+│   ├── 05_industry_analysis.png
+│   ├── 06_country_analysis.png
+│   ├── 07_rolling_total.png
+│   └── 08_company_ranking.png
+```
 # 🚀 Future Improvements
 
 - Build an interactive Power BI dashboard
